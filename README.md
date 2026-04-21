@@ -1,2 +1,2 @@
-# --Computer-Software-Exam--Soft-Exam
-本仓库用于软考备考涵盖知识点，源码系统性汇总计算机基础、数据结构、算法、数据库、软件工程、网络技术、信息安全等考试重难点，持续更新、复盘巩固，高效备战软考。
+本仓库用于软考备考，涵盖知识点、源码，系统性汇总计算机基础、数据结构、算法、数据库、软件工程、网络技术、信息安全等考试重难点，持续更新、复盘巩固，高效备战软考。
+This repository is built for the Soft Exam preparation. It covers key knowledge and source code, and systematically summarizes the core and difficult exam points including computer fundamentals, data structures, algorithms, databases, software engineering, network technology and information security. Contents will be updated continuously for review and consolidation, helping you prepare efficiently for the Soft Exam.
